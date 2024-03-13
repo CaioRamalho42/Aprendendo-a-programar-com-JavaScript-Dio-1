@@ -1,0 +1,1 @@
+Códigos e desafios do primeiro módulo do curso JavaScript Developer da Dio, onde fui apresentado aos conceitos mais básicos e elementares da programação, sendo desafiado e tento autonomia para solucionar desafios e problemas de código.
